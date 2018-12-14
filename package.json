@@ -1,6 +1,6 @@
 {
-  "name": "dz1",
-  "version": "1.0.0",
+  "name": "clear-dir-dz",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "clear": "./bin/main"
+    "clearDir": "./bin/main"
   },
   "author": "",
   "license": "ISC",
