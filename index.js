@@ -1,2 +1,2 @@
 
-module.exports = require('./lib/cli.js')
+module.exports = require('./lib/cleanFoName')
